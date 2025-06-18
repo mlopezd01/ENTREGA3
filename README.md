@@ -13,9 +13,11 @@ Se entrenó un modelo de clasificación multiclase para predecir etiquetas de co
 Puntuaciones de IMDb (imdb_score, imdb_votes)
 Popularidad y puntuación de TMDb (tmdb_popularity, tmdb_score)
 Otros metadatos del contenido
+
+
 Evaluación del modelo
 Se evaluó el modelo mediante una matriz de confusión, que permitió identificar:
 
-Buen rendimiento para la clase 2, con 457 aciertos.
-Desempeño moderado para la clase 0, aunque con errores hacia la clase 2.
-Bajo rendimiento en la clase 1, con mayoría de predicciones erróneas como clase 2.
+- Buen rendimiento para la clase 2, con 457 aciertos.
+- Desempeño moderado para la clase 0, aunque con errores hacia la clase 2.
+- Bajo rendimiento en la clase 1, con mayoría de predicciones erróneas como clase 2.
