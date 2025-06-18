@@ -10,9 +10,9 @@ Descripción del proyecto
 
 Se entrenó un modelo de clasificación multiclase para predecir etiquetas de contenido (por ejemplo, tipo o grupo de calidad) utilizando variables como:
 
-Puntuaciones de IMDb (imdb_score, imdb_votes)
-Popularidad y puntuación de TMDb (tmdb_popularity, tmdb_score)
-Otros metadatos del contenido
+- Puntuaciones de IMDb (imdb_score, imdb_votes)
+- Popularidad y puntuación de TMDb (tmdb_popularity, tmdb_score)
+- Otros metadatos del contenido
 
 
 Evaluación del modelo
